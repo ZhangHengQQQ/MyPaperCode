@@ -1,0 +1,2 @@
+1、运行“trainAutoEncode.m”训练深度自动编码器，运行“autoEncode.m”对数据进行编码，运行“crossValidation.m”对改模型进行留一交叉验证。“main.m”涵盖了所有。
+2、在本代码的编写过程中参考了Heung-ll Suk教授所提供的代码。同时也借鉴了Geoffrey Hinton的代码“www.cs.toronto.edu/~hinton/MatlabForSciencePaper.html”。在HMM部分，参考了“HMM Toolbox”见“https://www.cs.ubc.ca/~murphyk/Software/HMM/hmm.html”。
